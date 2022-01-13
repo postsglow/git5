@@ -8,4 +8,9 @@ new change
 no change 1
 
 oho~
+<<<<<<< HEAD
+>>>>>>> br2
+=======
+   
+   br2 - commit 5
 >>>>>>> br2
