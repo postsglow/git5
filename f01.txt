@@ -7,4 +7,10 @@ branch : br1 - commit2
 
 
 branch : br1 - commit3
+<<<<<<< HEAD
 >>>>>>> br2
+=======
+         
+
+         br1 - commit 4
+>>>>>>> br1
