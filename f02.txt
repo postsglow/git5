@@ -1,2 +1,11 @@
 branch - br2
+<<<<<<< HEAD
 what the hell
+=======
+
+new change
+
+no change 1
+
+oho~
+>>>>>>> br2

@@ -1,4 +1,8 @@
 testing git5 start
+<<<<<<< HEAD
 first~
 
 branch : master - commit3
+=======
+first~
+>>>>>>> br2
